@@ -94,7 +94,7 @@ moduleLogger.Debug("认证模块初始化")
 import "github.com/qishenonly/kafka"
 ```
 
-详细使用方法请参考 [Kafka 工具包文档](./kafka/README.md)。
+详细使用方法请参考 [Kafka 工具包文档](https://github.com/qishenonly/kafka/blob/master/README.md)。
 
 ### Logger 日志工具包
 
@@ -102,14 +102,14 @@ import "github.com/qishenonly/kafka"
 import "github.com/qishenonly/logger"
 ```
 
-详细使用方法请参考 [Logger 工具包文档](./logger/README.md)。
+详细使用方法请参考 [Logger 工具包文档](https://github.com/qishenonly/logger/blob/master/README.md)。
 
 ## 示例
 
 完整的示例代码可以在各个组件的 `examples` 目录下找到：
 
-- Kafka 示例: [kafka/examples](./kafka/examples)
-- Logger 示例: [logger/example](./logger/example)
+- Kafka 示例: [kafka/examples](https://github.com/qishenonly/kafka/tree/master/examples)
+- Logger 示例: [logger/example](https://github.com/qishenonly/logger/tree/master/example)
 
 ## 特性
 
