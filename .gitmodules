@@ -1,12 +1,16 @@
 [submodule "kafka"]
 	path = kafka
 	url = https://github.com/qishenonly/kafka.git
+	branch = master
 [submodule "logger"]
 	path = logger
 	url = https://github.com/qishenonly/logger.git
+	branch = master
 [submodule "rocketmq"]
 	path = rocketmq
 	url = https://github.com/qishenonly/rocketmq.git
+	branch = master
 [submodule "retry"]
 	path = retry
 	url = https://github.com/qishenonly/retry.git
+	branch = master
