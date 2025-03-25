@@ -7,3 +7,6 @@
 [submodule "rocketmq"]
 	path = rocketmq
 	url = https://github.com/qishenonly/rocketmq.git
+[submodule "retry"]
+	path = retry
+	url = https://github.com/qishenonly/retry.git
