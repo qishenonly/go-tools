@@ -4,3 +4,6 @@
 [submodule "logger"]
 	path = logger
 	url = https://github.com/qishenonly/logger.git
+[submodule "rocketmq"]
+	path = rocketmq
+	url = https://github.com/qishenonly/rocketmq.git
